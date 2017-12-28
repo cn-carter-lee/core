@@ -1,6 +1,6 @@
 {
   "name": "cn-carter-lee/core",
-  "description": "just for test",
+  "description": "Carter's core code to create a web application, which based on php phalcon framework.",
   "minimum-stability": "dev",
   "authors": [
     {
