@@ -1,0 +1,16 @@
+{
+  "name": "cn-carter-lee/core",
+  "description": "just for test",
+  "authors": [
+    {
+      "name": "carter",
+      "email": "haizhixing126@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Carter\\Core\\": "src/Core"
+    }
+  }
+}
