@@ -14,7 +14,7 @@
       "Carter\\Core\\": "src/Core"
     },
     "files": [
-      "app/Core/helpers.php"
+      "app/src/helpers.php"
     ]
   }
 }
