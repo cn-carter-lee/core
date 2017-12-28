@@ -2,13 +2,17 @@
   "name": "cn-carter-lee/core",
   "description": "Carter's core code to create a web application, which based on php phalcon framework.",
   "minimum-stability": "dev",
+  "license": "MIT",
+  "homepage": "https://github.com/cn-carter-lee/core",
   "authors": [
     {
-      "name": "carter",
+      "name": "Carter",
       "email": "haizhixing126@gmail.com"
     }
   ],
-  "require": {},
+  "require": {
+    "php": ">=5.5.0"
+  },
   "autoload": {
     "psr-4": {
       "Carter\\Core\\": "src/Core"
