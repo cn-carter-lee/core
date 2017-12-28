@@ -1,6 +1,7 @@
 {
   "name": "cn-carter-lee/core",
   "description": "just for test",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "carter",
@@ -11,6 +12,9 @@
   "autoload": {
     "psr-4": {
       "Carter\\Core\\": "src/Core"
-    }
+    },
+    "files": [
+      "app/Core/helpers.php"
+    ]
   }
 }
